@@ -38,6 +38,8 @@ function Install-Utils {
 
     choco install -y ditto
 
+    choco install -y drawio
+
     choco install -y greenshot
 
     choco install -y adobereader
